@@ -1,9 +1,7 @@
-[![MasterHead](https://www.pluralsight.com/)](https://www.redravens.com.tr)
+
 
 <h1 align="center">Hi 👋, I'm Hanzade</h1>
 <h3 align="center">Senior high schoolar who is passionate about coding from Turkiye</h3>
-<img align="right" alt="Coding" width="400" src= "https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub">
-
 
 
 - 🔭 I'm working with my team Red Ravens to attend **Robotex International World Championship**
