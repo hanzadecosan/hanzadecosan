@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Hanzade</h1>
-<h3 align="center">Senior high schoolar who is passionate about coding from Turkiye</h3>
+<h3 align="center">Senior high schooler who is passionate about coding from Turkiye</h3>
 
 
 - 🔭 I'm working with my team Red Ravens to attend **Robotex International World Championship**
