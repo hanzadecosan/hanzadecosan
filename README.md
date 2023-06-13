@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/ajayaadhav10/ajayaadhav10)](https://www.redravens.com.tr/)
+[![MasterHead](https://www.pluralsight.com/)](https://www.redravens.com.tr)
 
 <h1 align="center">Hi 👋, I'm Hanzade</h1>
 <h3 align="center">Senior high schoolar who is passionate about coding from Turkiye</h3>
