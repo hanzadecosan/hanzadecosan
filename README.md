@@ -1,17 +1,16 @@
 
 
 <h1 align="center">Hi 👋, I'm Hanzade</h1>
-<h3 align="center">Senior high schooler who is passionate about coding and development</h3>
+<h3 align="center">Sophomore college student who is passionate about coding and development</h3>
 
 
-- 🔭 I'm working with my team Red Ravens to attend **Robotex International World Championship**
-  You can check out our website www.redravens.com.tr if you want to.
+- 🔭 I'm working on Object-Oriented Programming along with my engineering studies. 
 
-- 🌱 I’m currently learning **about new software languages and web development**
+- 🌱 I would love to explore more of back-end and mobile development through my journey. I would also like to try as many branches as I can.
 
 - 📫 You can contact me via **hanzadecosan1@gmail.com**
 
-- ⚡ Fun fact **I love playing piano and reading in my free time.**
+
   
 
 <h3 align="left">Connect with me:</h3>
