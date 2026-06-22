@@ -30,6 +30,10 @@
 
 -C++
 
+-C#
+
+-MSSQL
+
 **Tools & Concepts:**
 
 -Object-Oriented Programming (OOP)
