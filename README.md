@@ -18,7 +18,9 @@
   
 -Practice data structures and algorithms. Also, practicing problem solving in a computational way.
 
--Build small-scale applications.
+-Full stack web development applications.
+
+-SwiftUI, React and IOS development.
 
 -Explore how software works beyond theory.
 
