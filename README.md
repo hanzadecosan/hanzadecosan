@@ -44,7 +44,7 @@
 -Git & GitHub
 
 -MSSQL
- <p align="center"> <img src="https://skillicons.dev/icons?i=java,cpp,git,github,idea" /> </p>
+ <p align="center"> <img src="https://skillicons.dev/icons?i=java,cpp,git,github,idea,cs,dotnet," /> </p>
 
 
   
