@@ -28,9 +28,9 @@
 
 <br>
 
-<table>
+
 <tr>
-<td width="60%" valign="top">
+<td width="100%" valign="top">
 
 ## ☁️ About Me
 
@@ -43,16 +43,10 @@ Hi! I'm **Hanzade**, a Software Engineering student who enjoys transforming idea
 * 🌍 Hoping to grow in an international and creative technology environment
 
 </td>
-<td width="40%" align="center" valign="middle">
+<td width="100%" align="center" valign="middle">
 
-<img src="./assets/coding-girl.gif" width="290" alt="Cute coding illustration" />
 
-<br>
 
-<sub>probably building another app idea ☕</sub>
-
-</td>
-</tr>
 </table>
 
 <br>
